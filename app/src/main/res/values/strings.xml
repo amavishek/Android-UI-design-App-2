@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">UIdesign!</string>
+    <string name="text1">Welcome To </string>
+    <string name="text2">UiLover</string>
+    <string name="text3">Go To my github profile</string>
+    <string name="text4">to get all resources and</string>
+    <string name="text5">for free to use</string>
+    <string name="start">Get Started</string>
+
+    <string name="hi">Hi,</string>
+    <string name="pls">Please Login</string>
+    <string name="email">Email</string>
+    <string name="pass">password</string>
+    <string name="forgate">click? forgate password</string>
+    <string name="logwith">Or login</string>
+    <string name="login">Login</string>
+    <string name="facebbok">facebook</string>
+    <string name="google">Google</string>
+    <string name="name">Name</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="feacebook">feacebook</string>
+    <string name="create">Create</string>
+    <string name="account">Account</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="Name">Name</string>
+    <string name="signup">Signup</string>
+    <string name="enter_full_name">Enter Full name</string>
+    <string name="Google">Google</string>
+    <string name="facebook">facebook</string>
+    <string name="re_enter">Re-Enter</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="share_profile">Share Profile</string>
+    <string name="favourites">favourites</string>
+    <string name="notifications">notifications</string>
+    <string name="Edit_Profile">Edit Profile</string>
+    <string name="user_interface">User interface</string>
+    <string name="designer">designer</string>
+
+
+</resources>
